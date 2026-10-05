@@ -20,6 +20,4 @@ private:
         }
         return ans;
     }
-
-    
 };
